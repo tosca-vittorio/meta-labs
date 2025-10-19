@@ -1,0 +1,3 @@
+[submodule "meta-version-control-forking"]
+	path = meta-version-control-forking
+	url = https://github.com/tosca-vittorio/meta-version-control-forking.git
